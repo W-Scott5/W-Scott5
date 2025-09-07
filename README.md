@@ -33,7 +33,7 @@ My Github showcases all the projects that I'm happy to share out to the public. 
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge" alt="Express.js"/>
 </div>
 
-### 📈 I’m familiar with
+### 📈 I have experience with
 
 <div display="flex">
     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -43,7 +43,7 @@ My Github showcases all the projects that I'm happy to share out to the public. 
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </div>
 
-### 🌱 I’m learning more
+### 🌱 I’m learning more about
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
